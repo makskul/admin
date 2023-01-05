@@ -1,0 +1,1 @@
+import{R as s,Z as n,a0 as o,p as i}from"./index.467cdc2d.js";const r=s({name:"VListItemAction",props:{start:Boolean,end:Boolean,...n()},setup(t,e){let{slots:a}=e;return o(()=>i(t.tag,{class:["v-list-item-action",{"v-list-item-action--start":t.start,"v-list-item-action--end":t.end}]},a)),{}}});export{r as V};
