@@ -1,1 +1,0 @@
-import{k as t,aw as e,a1 as s,aT as n}from"./index.467cdc2d.js";function i(){const o=t(!1);return e(()=>{window.requestAnimationFrame(()=>{o.value=!0})}),{ssrBootStyles:s(()=>o.value?void 0:{transition:"none !important"}),isBooted:n(o)}}export{i as u};
