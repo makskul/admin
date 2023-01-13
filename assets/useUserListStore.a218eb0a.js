@@ -1,1 +1,0 @@
-import{aZ as o,C as a}from"./index.ea9c407c.js";const u=o("UserListStore",{actions:{fetchUsers(e){return a.get("/apps/users/list",{params:e})},addUser(e){return new Promise((r,t)=>{a.post("/apps/users/user",{user:e}).then(s=>r(s)).catch(s=>t(s))})},fetchUser(e){return new Promise((r,t)=>{a.get(`/apps/users/${e}`).then(s=>r(s)).catch(s=>t(s))})}}});export{u};
