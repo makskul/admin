@@ -1,0 +1,1 @@
+import{y as e,o as t,b as o,w as r,z as a}from"./index.add429ee.js";import{V as c}from"./VCardText.19d6276a.js";import"./createSimpleFunctional.3c66e3e0.js";const s={};function n(_,f){return t(),o(c,null,{default:r(()=>[a(" Hello Test ")]),_:1})}const x=e(s,[["render",n]]);export{x as default};
