@@ -1,1 +1,0 @@
-import{d as n,o as t,b as a,w as c,p as s,A as r}from"./index.9dabbb2a.js";import{V as i}from"./VBtn.8085433d.js";const d=n({__name:"DialogCloseBtn",props:{icon:{default:"tabler-x"}},setup(o){const e=o;return(l,p)=>(t(),a(i,{icon:"",class:"v-dialog-close-btn"},{default:c(()=>[s(r,{icon:e.icon},null,8,["icon"])]),_:1}))}});export{d as _};
